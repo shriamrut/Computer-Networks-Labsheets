@@ -1,3 +1,5 @@
+#in browser localhost:12345/filename_requested
+#assumption is that the requested file is present in the Desktop
 import socket
 import os
 port=12345
